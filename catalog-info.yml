@@ -62,10 +62,10 @@ kind: Component
 metadata:
   namespace: default
   annotations:
-    backstage.io/managed-by-location: url:https://github.com/oliverdirks/mkdocs-example/tree/master/catalog-info.yaml
-    backstage.io/managed-by-origin-location: url:https://github.com/oliverdirks/mkdocs-example/blob/master/catalog-info.yaml
-    backstage.io/view-url: https://github.com/oliverdirks/mkdocs-example/tree/master/catalog-info.yaml
-    backstage.io/edit-url: https://github.com/oliverdirks/mkdocs-example/edit/master/catalog-info.yaml
+    backstage.io/managed-by-location: url:https://github.com/oliverdirks/mkdocs-example/tree/master/catalog-info.yml
+    backstage.io/managed-by-origin-location: url:https://github.com/oliverdirks/mkdocs-example/blob/master/catalog-info.yml
+    backstage.io/view-url: https://github.com/oliverdirks/mkdocs-example/tree/master/catalog-info.yml
+    backstage.io/edit-url: https://github.com/oliverdirks/mkdocs-example/edit/master/catalog-info.yml
     backstage.io/source-location: url:https://github.com/oliverdirks/mkdocs-example/tree/master/
     backstage.io/techdocs-ref: dir:.
   name: mkdocs-example
