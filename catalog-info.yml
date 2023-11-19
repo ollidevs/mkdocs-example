@@ -11,13 +11,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
   name: mkdocs-example
   description: example mkdocs repository
-relations:
-  - type: ownedBy
-    targetRef: group:default/cncf
-    target:
-      kind: group
-      namespace: default
-      name: cncf
 spec:
   type: library
   owner: CNCF
